@@ -3,3 +3,5 @@ tasks:
       echo 'TODO: build project'
     command: |
       echo 'TODO: start app'
+      git config --local user.name parroty-exp
+      git config --local user.email parroty-exp@example.com
