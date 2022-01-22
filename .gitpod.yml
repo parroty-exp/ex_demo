@@ -1,6 +1,6 @@
 tasks:
   - init: |
-      echo 'TODO: build project'
+      sudo apt install elixir -y && mix local.hex --force
     command: |
       echo 'TODO: start app'
       git config --local user.name parroty-exp
