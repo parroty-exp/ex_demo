@@ -21,7 +21,8 @@ defmodule ExDemo.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:httpoison, "~> 1.8.0"}
+      {:httpoison, "~> 1.8.0"},
+      {:tentacat, "~> 2.0.0"}
     ]
   end
 end
