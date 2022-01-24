@@ -22,7 +22,7 @@ defmodule ExDemo.MixProject do
   defp deps do
     [
       {:httpoison, "~> 1.8.0"},
-      {:tentacat, "~> 2.0.0"}
+      {:tentacat, "~> 2.2.0"}
     ]
   end
 end
